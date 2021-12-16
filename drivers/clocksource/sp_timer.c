@@ -19,6 +19,7 @@
 #include <asm/mach/time.h>
 #include <linux/of_address.h>
 #include <linux/of_irq.h>
+#include <linux/module.h>
 #include "sp_stc.h"
 
 #define SP_STC_FREQ	(13500000)		/* 13.5 MHz */
